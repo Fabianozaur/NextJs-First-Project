@@ -1,0 +1,21 @@
+.header{
+  color: black;
+  background-color: white;
+}
+
+.column{
+  display: flex;
+  flex-direction: column;
+}
+
+.row{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content{
+  height: 91.5vh;
+}
